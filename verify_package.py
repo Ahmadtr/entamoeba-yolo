@@ -142,7 +142,7 @@ def check_tables():
             for key, col in (('precision', 'Precision'), ('recall', 'Recall'),
                              ('f1', 'F1-score'), ('mAP50', 'mAP@50')):
                 v = [x[key] for x in fr]
-                want = '%.3f±%.3f' % (st.mean(v), st.pstdev(v))
+                want = '%.3f\u00b1%.3f' % (st.mean(v), st.pstdev(v))
                 got = pub.get(NAME[a], {}).get(col, '').replace(' ', '')
                 if want.replace(' ', '') != got:
                     allok = False
