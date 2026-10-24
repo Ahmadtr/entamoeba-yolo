@@ -1,0 +1,18 @@
+# the trained models are attached to the GitHub release, not committed
+weights/
+*.pt
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.DS_Store
+Thumbs.db
+
+# backups left by the maintenance scripts
+*.bak
+
+# ultralytics run output
+runs/
+

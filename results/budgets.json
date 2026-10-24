@@ -1,0 +1,17 @@
+{
+ "yolov8s_fold0": 177,
+ "yolov8s_fold1": 179,
+ "yolov8s_fold2": 161,
+ "yolov8s_fold3": 172,
+ "yolov8s_fold4": 189,
+ "yolov8n_fold0": 151,
+ "yolov8n_fold1": 153,
+ "yolov8n_fold2": 182,
+ "yolov8n_fold3": 177,
+ "yolov8n_fold4": 148,
+ "yolo11n_fold0": 153,
+ "yolo11n_fold1": 177,
+ "yolo11n_fold2": 162,
+ "yolo11n_fold3": 200,
+ "yolo11n_fold4": 200
+}

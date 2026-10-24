@@ -1,0 +1,91 @@
+image,source_type,source,patient_group,md5,bytes
+image1.jpeg,clinical,Islamic_Hospital,patient_1,5c1698048a87c16b05c09f132fad7a98,223928
+image2.jpeg,clinical,Islamic_Hospital,patient_2,3ba213b29f781e3569e7e3b837fc5db4,172979
+image3.jpg,clinical,Al-Salt_New_Hospital,patient_3,f43e4dabe5f9f13929d29443e538b73e,163547
+image4.jpg,clinical,Al-Salt_New_Hospital,patient_4,b281543b29e0c2e141d120e8e6b288cc,17644
+image5.jpg,clinical,Islamic_Hospital,patient_5,e1c80bcf55315568b911f42b1ba56093,294715
+image6.jpg,clinical,Al-Salt_New_Hospital,patient_6,9429acee97ebba026597637d93ee93df,180934
+image7.jpg,clinical,Al-Salt_New_Hospital,patient_7,9c84b831f7a15880344ea62d8cd7dfc4,255158
+image8.jpg,clinical,Islamic_Hospital,patient_8,7b78fb594a9a990d85e87d159afb7a26,492227
+image9.jpeg,,,,86b63416d9164590ab31bdc6c7cc6f4f,143055
+image10.jpeg,,,,9213be78092da7153947c5f4eed394ef,154549
+image11.jpg,clinical,Islamic_Hospital,patient_8,bba2d8443b6d2af52d5b0407d0c8586a,474457
+image12.jpg,clinical,Islamic_Hospital,patient_11,c007523a4856c20e52e913a410bcf0f1,133969
+image13.jpg,clinical,Islamic_Hospital,patient_12,f59992e928b481ffea8f8b65740c0679,492379
+image14.jpg,clinical,Islamic_Hospital,patient_13,49aae0a8a7fef86a0fb41a3dc0d24be1,507268
+image15.jpeg,clinical,Islamic_Hospital,patient_14,048ff5d6626cafcab6d2a8377d2dc8bb,44484
+image16.jpeg,,,,2e0295f2361f244a4bc15359b7f91160,149196
+image17.jpg,clinical,Islamic_Hospital,patient_16,92e47654ecbf75e6a9d7fad2a060b8dc,461648
+image18.jpeg,clinical,Islamic_Hospital,patient_17,77f68fb673560b508bf17087fc19df99,66288
+image19.jpeg,clinical,Islamic_Hospital,patient_18,b342b1605521303b984b284d48734770,81070
+image20.jpg,clinical,Islamic_Hospital,patient_19,df44715d02ae52e607351105c9256de7,11331
+image21.jpg,clinical,Islamic_Hospital,patient_20,f729c018657ac7eb3f69f372f621df99,16916
+image22.jpeg,clinical,Al-Salt_New_Hospital,patient_21,86f88407ae485a8abde9159250850756,16305
+image23.jpeg,clinical,Islamic_Hospital,patient_22,74e6b977c6e000a3001afe26f5deb682,173373
+image24.jpeg,clinical,Islamic_Hospital,patient_23,0afcd1435e92b2db23708634de385f06,135665
+image25.jpeg,,,,ec71a0bfa173bdc69e1c6f605f010bd5,40904
+image26.jpeg,,,,41bff582a141a386bff43b37b8c616d9,169571
+image27.jpeg,,,,29964a5033f236267e4d673d9f21784c,165900
+image28.jpeg,clinical,Al-Salt_New_Hospital,patient_27,48b2481ff5dbd08afd627bc3fbf29c21,15129
+image29.jpeg,clinical,Islamic_Hospital,patient_29,f6354afb0d29e1cdb3abc7fd583ee757,344691
+image30.jpg,clinical,Al-Salt_New_Hospital,patient_30,771029fab4be974d1439b31f4a515cb2,39556
+image31.jpeg,,,,45b007f869b832670284206ccaf3e27b,159906
+image32.jpg,clinical,Al-Salt_New_Hospital,patient_32,9f460fedfe76ede4be0c45a7f3511777,111727
+image33.jpeg,,,,d4babebdd1def15144ebb9646216d641,197300
+image34.jpeg,,,,6e6c24bf249c20a2d1f2086f02b6bae1,95899
+image35.jpeg,,,,59fc75064d2a4c86eb7d89acd856d149,148656
+image36.jpeg,,,,176334452304f6eb0e657b6f75e13771,226435
+image37.jpeg,clinical,Islamic_Hospital,patient_37,3a5ea8d7c9f92d8421a763680cf73f5e,298635
+image38.jpg,clinical,Islamic_Hospital,patient_38,470af2979ccf714ff61269e49a1d0da1,379236
+image39.jpeg,clinical,Al-Salt_New_Hospital,patient_39,f844cecb86b80ccd8b648577a790ddfb,161051
+image40.jpeg,,,,09004087dcf90a46df40d2808b8d4c18,183313
+image41.jpg,clinical,Al-Salt_New_Hospital,patient_41,c5b7506d0051afa5676c4af1b3f5fc64,11419
+image42.jpeg,clinical,Islamic_Hospital,patient_42,32120f2e2a769b03f828d529a7d2d927,201077
+image43.jpg,clinical,Al-Salt_New_Hospital,patient_43,f5bbf2abfcbfa94ead8f47fc079a5d31,10893
+image44.jpg,clinical,Islamic_Hospital,patient_44,e8af7e6ec9d20d382e024f5305f4b6f4,81822
+image45.jpg,clinical,Islamic_Hospital,patient_45,01d326b4652a1f6e4b5dd7cc0f649681,63151
+image46.jpg,clinical,Al-Salt_New_Hospital,patient_46,6004a7e6a4836544d31c041f0e03084f,74907
+image47.jpg,clinical,Islamic_Hospital,patient_47,27666c4b0daf70f22b6ff01ad783263c,368908
+image48.jpg,clinical,Al-Salt_New_Hospital,patient_48,ed1b3f74647b239810aa99734e0b169a,31912
+image49.jpg,clinical,Islamic_Hospital,patient_49,d5268b182c6619a7c0d226e16ff9bddf,76575
+image50.jpg,clinical,Islamic_Hospital,patient_50,6b35161d5f03afc09ba9c1a6868f850f,50264
+image51.jpeg,clinical,Islamic_Hospital,patient_51,539dcfbe0bac07abd4045f9ebffb7d47,299649
+image52.jpg,clinical,Islamic_Hospital,patient_52,3c864f1e60bc674eb2fb56cb90486804,226882
+image53.jpg,clinical,Islamic_Hospital,patient_53,b9be49a0ad018831bbc8017cde56e2df,155729
+image54.jpeg,clinical,Islamic_Hospital,patient_51,a9d31298142c8cf8390dc0f5597e5e03,370547
+image55.jpeg,clinical,Islamic_Hospital,patient_51,12b46e49ef44fcc5cf8d8b2a1fe74c11,326344
+image56.jpeg,,,,6aa58c902f88c82a23065af85585cd00,223347
+image57.jpeg,,,,a9228daa86bdb58e3ccce6495d9dfe4e,243545
+image58.jpeg,,,,af02314a2498333e63bfd17c1eeb550d,160076
+image59.jpeg,,,,82d044768065e098c453512136b5e524,169468
+image60.jpg,clinical,Al-Salt_New_Hospital,patient_58,f590035aeda795b446f1ae391e5312a2,59546
+image61.jpg,,,,8a0335249e5dfb31596103196baf2053,185379
+image62.jpg,public,CDC_16259_lores,patient_60,28c3a1337969ae7e228486626e33b9d6,32505
+image63.jpg,,,,3cd37fbc6eb24454b73bb38473c8097d,20610
+image64.jpg,public,CDC_428,patient_62,5f9cf8d68ec91917cff43816b857ed71,29079
+image65.jpg,public,CDC_433,patient_63,b75086d4a9eec71ea7cecc62aa97b27d,21123
+image66.jpg,public,CDC_ID435,patient_64,c78d49462aaa71589fc9c10fd04cf96c,60086
+image67.jpg,public,CDC_16892,patient_65,d17d0d416a7e2e4da41feef0623df706,21487
+image68.png,public,"Prevalence of cases of amebic liver abscess in a tertiary care centre in India A study on risk factors, associated mic",patient_66,0dfba5617dc75ddf1dfb11d0d476e82b,574078
+image69.jpg,public,https www.medical-labs.net entamoeba-histolytica-2-2281,patient_67,23ad4040e756b07085b4ad66c4130da1,57664
+image70.jpg,public,https www.parasite.org,patient_68,0f9b6b980c44ad5f629c4e5177548501,36737
+image71.jpg,public,CDC_ID16255,patient_69,9b29fe1227414fc8fac90dc2348d4480,48642
+image72.jpg,public,CDC_ID17554,patient_70,21b00bb59ae84cf8fac0a56029961dac,24790
+image73.jpg,public,CDC_ID436,patient_71,6942cf80ac530f0f899c40e9cb6be4e5,45811
+image74.jpg,public,CDC_ID532,patient_72,029c68d855b59baf04704741e151efc5,23800
+image75.jpg,public,CDC_ID6667,patient_73,de8462ead6d66f70789e82dfe44e6c2c,36862
+image76.jpg,public,CDC_ID16243,patient_74,813ddf10e2dd9ef5b284193814746cbb,35867
+image77.jpg,public,CDC_ID16249,patient_75,33d7e2a61f13410ba32a482f8273f6e9,52493
+image78.jpg,public,httpswww.medical-labs.netentamoeba-histolytica-2-2281,patient_76,027b761b6f0fcea1b11fb3cbe88548e1,45678
+image79.jpg,public,httpswww.medical-labs.netentamoeba-histolytica-2-2281,patient_77,4309473dd8ec8e83ef17b75d97dbbd8c,99429
+image80.png,public,httpswww.microbiologyresearch.orgcontentjournalijsem10.1099ijs.0.64208-0crawler=true&mimetype=applicationpdf,patient_78,69eada36363a87b25b7e377881b39f6f,231607
+image81.jpg,public,https://www.sciencedirect.com/topics/medicine-and-dentistry/entamoeba,patient_79,722fd31729bef3f941ddbbbcdc3820f1,103151
+image82.jpg,public,https www.parasite.org,patient_80,71be2e4fe5774c4f2ed067cb6737d915,17304
+image83.jpg,public,https www.parasite.org,patient_81,4416a5d56a7ae64c62158b8a9230ace7,378828
+image84.jpg,public,https www.parasite.org,patient_82,799d68eba5dc9fd2fb5cb47d9af6ba21,15087
+image85.jpeg,public,"Rolo M, Reyes A, Torres JM, Pérez-Ayala A. Unusual microscopic finding in a hepatic abscess content. Enferm Infecc Microbiol Clin. 2023;41 254–2",patient_83,9147eef2e4207208a537a6a095cc72cf,67995
+image86.jpg,public,"Samie A, Elbakri A, AbuOdeh R. Amoebiasis in the Tropics Epidemiology and Pathogenesis. 2012. (2)",patient_84,02e5a79518f766b6ffe8619af4b73560,1991
+image87.jpg,public,"Samie A, Elbakri A, AbuOdeh R. Amoebiasis in the Tropics Epidemiology and Pathogenesis. 2012. (2)",patient_85,f7a3fe4d3c0f41a4f89afc79aaf754df,2449
+image88.jpeg,clinical,Islamic_Hospital,patient_86,a60b7a2e40ce47ec335fc1330c27bdd4,226770
+image89.jpeg,clinical,Islamic_Hospital,patient_87,c7a94b8374f42a3bb5882357639c07ae,271807
+image90.jpeg,clinical,Islamic_Hospital,patient_88,97e3a144f290dac0cf10bec23a904211,41386
