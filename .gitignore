@@ -16,3 +16,7 @@ Thumbs.db
 # ultralytics run output
 runs/
 
+
+# git already hashes every tracked file
+CHECKSUMS.csv
+

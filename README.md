@@ -33,7 +33,6 @@ code/
 results/      per-architecture JSON, CSV outputs, tables/, figures/
 env/          requirements.txt
 verify_package.py
-CHECKSUMS.csv
 ```
 
 `manifest.csv` lists every released image with its md5 and size, so you can
@@ -45,6 +44,17 @@ The 45 stage-3 models (154 MB) are **attached to the GitHub release**, not
 committed to the repository. Download `entamoeba-weights.zip` from the
 Releases page and unpack it into the package root so that `weights/` sits
 beside `code/` and `data/`.
+
+```
+entamoeba-weights.zip   161,385,315 bytes
+md5     fc4d661e472a3de80dcc08b31518e02f
+sha256  fd6eb5fd53286951a38e09dfde0fa3f89c9acff1c8e4de4764739f86810acf85
+```
+
+The repository's own files need no checksum file: git hashes every object, so
+`git clone` verifies them for you. The per-image md5 values in each
+`manifest.csv` serve a different purpose - they attest that a released image is
+byte-identical to the file that produced the published results.
 
 They are needed to:
 
